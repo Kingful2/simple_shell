@@ -1,0 +1,10 @@
+#include<stdio.h>
+/**
+ *  main - this is a printf function
+ *  Return: 0
+ */
+int main(void)
+{
+	printf("write a beautiful code that passes betty test,\n");
+	return (0);
+}
